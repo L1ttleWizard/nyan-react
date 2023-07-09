@@ -17,11 +17,11 @@ export default function Home() {
 
 
   return (
-    <main>
+    <>
       <h1>Random Cat Image Carousel</h1>
       <button>toggle death mode</button>
       <Carousel/>
-    </main>
+    </>
 
   )
 }
