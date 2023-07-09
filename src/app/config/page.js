@@ -50,7 +50,7 @@ export default function Home() {
                 />
                 <div>Current API:<span className="violet"> {selected}</span></div>
                 <div>Current Color: <span className="violet"> {color}</span></div>
-                <Link className="" href="/">Click here to redirect to Home Page</Link>
+                <Link className="" href="/#">Click here to redirect to Home Page</Link>
             </div>
         </>
     );
