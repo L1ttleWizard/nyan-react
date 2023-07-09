@@ -89,8 +89,8 @@ a {
   border-radius: 50%;
   z-index: 10px;
   cursor: pointer;
-  background-color: #fff;
-  font-size: 18px;
+  
+  background-color: transparent;
   text-align: center;
 }
 .btn:active {
@@ -152,7 +152,7 @@ a {
   margin-right: 5px;
 }
 .musicOn {
-  display: none;
+
 }
 .narc-bg {
   background-image: url("https://c.tenor.com/r8QaTDj3U6IAAAAi/nyan-cat-poptart-cat.gif");
@@ -193,7 +193,9 @@ a {
     font-size: 2.1em;
   }
 }
-
+.wrapper{
+  font-size:40px;
+}
 /* Tooltip container */
 .tooltip {
   position: relative;

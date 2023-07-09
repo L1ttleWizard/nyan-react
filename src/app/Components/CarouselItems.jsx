@@ -1,4 +1,6 @@
 "use client";
+
+
 import { FetchContext } from "./Carousel.jsx";
 import React, { useContext } from "react";
 import "./vanilla.js";
